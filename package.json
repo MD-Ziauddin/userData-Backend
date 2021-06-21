@@ -1,0 +1,15 @@
+{
+  "name": "userdata",
+  "version": "1.0.0",
+  "description": "UserData backend",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ziauddin",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.12.14"
+  }
+}
